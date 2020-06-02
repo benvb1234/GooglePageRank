@@ -5,7 +5,7 @@
 - Implements a version of Google's PageRank algorithm to showcase importance each link has.
 - Outputs website with highest score.
 - Code was created by Valentina Alto
-- https://medium.com/analytics-vidhya/the-algorithm-behind-google-search-an-implementation-with-python-d6418023bbd9
+- https://bit.ly/30dAher
 
 # Description of Paper
 
